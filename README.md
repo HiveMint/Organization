@@ -1,2 +1,2 @@
-# Organization
-Documents for the organization
+# HiveMint Organization
+Repo for the organization documents.
