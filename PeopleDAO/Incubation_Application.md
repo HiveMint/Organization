@@ -43,7 +43,7 @@
 
 - Judging by how smoothly the first 3 NFT projects go: *Journey Owaa*, *For The People*, and *The Afro Piece*.
 - How the product learns and evolves from one NFT launch to the next.
-- How to "go to market" is received by outside projects and the rate in which new projects use the platform.
+- How the "go to market" is received by outside projects and the rate in which new projects use the platform.
 
 ## 10) Please give a brief roadmap.
 
