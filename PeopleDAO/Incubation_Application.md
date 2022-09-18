@@ -26,7 +26,7 @@
 
 ## 6) Please provide information about your professional experience and skills (include any relevant links to social media, portfolio or previous projects, Github, POAP collection, Linkedin, etc).
 
-- Qualifications: Entrepreneur, Product Developer, Generative Artist.  First contribution to the PeopleDAO Community: the CFRAC NFT project, which included the generative art work, the NFT smart contract on Ethereum mainnet, and the minting web application.  
+- Qualifications for founder, Y4000: Entrepreneur, Product Developer, Generative Artist.  First contribution to the PeopleDAO Community: the CFRAC NFT project, which included the generative art work, the NFT smart contract on Ethereum mainnet, and the minting web application.  
 
 ## 7) How will the project build around the $PEOPLE token or contribute to the PeopleDAO ecosystem?
 
