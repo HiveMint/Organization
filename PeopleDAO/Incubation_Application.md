@@ -21,7 +21,7 @@
 
 - Break common needs into reusable components that can be configured via a simple to use admin interface
 - Flexible mint component which can take any ABI and allow configuration for common mint options.
-- If consumers are tuned into a “safe place to mint” new projects — there will be less hesitation into diving into new NFT drops.
+- If consumers are tuned into a “safe place to mint” new projects — there will be less hesitation with diving into new NFT drops.
 - A marketplace directory allowing NFT projects and Non-profits/DAOs to link up to collaborate on shared goals.
 
 ## 6) Please provide information about your professional experience and skills (include any relevant links to social media, portfolio or previous projects, Github, POAP collection, Linkedin, etc).
