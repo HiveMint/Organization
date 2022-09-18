@@ -50,6 +50,7 @@
 - Phase 1: Reusable premint allowlist building and NFT Minting dApp site for projects
 - Phase 2: Self-service management tools for projects to sign on and launch their premint and minting sites
 - Phase 3: Flesh out email marketing for project community communication, once a project has minted-out, the system can target NFT only ACTUAL holders with messaging.  For new wallets who've acquired the NFTs, they can register for communication.  For wallets who've sold their NFTs, they'll fall out of the loop of the communication.
+- Phase 4: Build out the marketplace of DAOs and Non-Profits open to collaboration with new NFT projects.
 
 ## 11) What’s the amount of seed funding you’re requesting? Include a high-level summary of what the funding will be used for. Skip this question if you only want in-kind resources (addressed in the next question). 
 
