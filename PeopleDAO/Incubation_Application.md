@@ -30,7 +30,7 @@
 
 ## 7) How will the project build around the $PEOPLE token or contribute to the PeopleDAO ecosystem?
 
-- HiveMint is running the beta in collaboration with the PeopleDAO.  HiveMint is the pre-mint allowlist building platform as well as the minting dApp for the NFT projects coming out of the PeopleDAO, including: Journey Owaa, For The People, and the Afro Piece.  
+- HiveMint is running the beta in collaboration with the PeopleDAO.  HiveMint is the pre-mint allowlist building platform as well as the minting dApp for the NFT projects coming out of the PeopleDAO, including: *Journey Owaa*, *For The People*, and *The Afro Piece*.  
 - PeopleDAO related NFT projects will benefit from the early access of the HiveMint platform and have direct influence on the future of the HiveMint product development.  
 - Going forward PeopleDAO will be grandfathered into using future offerings of the HiveMint platform at a free or discounted rate when compared to what HiveMint may advertise to outside consumers.
 
@@ -41,7 +41,7 @@
 
 ## 9) What are indicators of how we will measure the project’s success?
 
-- Judging by how smoothly the first 3 NFT projects go: Journey Owaa, For The People, and Afro Piece.
+- Judging by how smoothly the first 3 NFT projects go: *Journey Owaa*, *For The People*, and *The Afro Piece*.
 - How the product learns and evolves from one NFT launch to the next.
 - How to "go to market" is received by outside projects and the rate in which new projects use the platform.
 
