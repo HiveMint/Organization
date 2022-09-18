@@ -2,7 +2,7 @@
 
 ## 1) What is your project name?
 
-- HiveMint
+- HiveMint founded by Y4000
 
 ## 2) Are you applying for incubation as a PeopleDAO community project or a subDAO?
 
