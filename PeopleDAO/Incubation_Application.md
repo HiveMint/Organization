@@ -69,7 +69,11 @@
 
 ## 12) What in-kind resources do you need? For example, staffing, product development, strategic development, marketing, or dev work. 
 
-- Marketing, Smart Contract Auditing, Software/Product testing and feedback.  General strategic advice/feedback around product and marketing.  
+- Marketing
+- Smart Contract Auditing
+- Software/Product testing and feedback.  
+- Copywriting
+- General strategic advice/feedback around product and marketing.  
 
 ## 13) Provide any links to your project
 
