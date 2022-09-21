@@ -20,7 +20,7 @@
 ## 5) Provide a description of your project and how it solves the above need/problem/gap.
 
 - Break common needs into reusable components that can be configured via a simple to use admin interface
-- Flexible mint component which can take any ABI and allow configuration for common mint options.
+- Flexible mint component which can take any ABI and allow configuration for common mint options. Initial version built to the HiveMint contract template.  Projects wishing to deploy custom smart contracts will require an audit fee and be handled on a case-by-case basis.
 - If consumers are tuned into a “safe place to mint” new projects — there will be less hesitation with diving into new NFT drops.
 - A marketplace directory allowing NFT projects and Non-profits/DAOs to link up to collaborate on shared goals.
 
@@ -47,14 +47,25 @@
 
 ## 10) Please give a brief roadmap.
 
-- Phase 1: Reusable premint allowlist building and NFT Minting dApp site for projects
-- Phase 2: Self-service management tools for projects to sign on and launch their premint and minting sites
-- Phase 3: Flesh out email marketing for project community communication, once a project has minted-out, the system can target ACTUAL NFT holders with messaging.  For new wallets who've acquired the NFTs, they can register for communication.  For wallets who've sold their NFTs, they'll fall out of the loop of the communication.
-- Phase 4: Build out the marketplace of DAOs and Non-Profits open to collaboration with new NFT projects.
+- Phase 1: (9/22) Reusable premint allowlist building and NFT Minting dApp site for projects
+- Phase 1a: (9/22) Google Form to start gathering DAOs and Non-Profits who would like to be a part of our marketplace.
+- Phase 2: (11/22) Self-service management tools for projects to sign on and launch their premint and minting sites
+- Phase 3: (01/23) Flesh out email marketing for project community communication, once a project has minted-out, the system can target ACTUAL NFT holders with messaging.  For new wallets who've acquired the NFTs, they can register for communication.  For wallets who've sold their NFTs, they'll fall out of the loop of the communication.
+- Phase 4: (02/23) Build out the marketplace of DAOs and Non-Profits open to collaboration with new NFT projects.
 
 ## 11) What’s the amount of seed funding you’re requesting? Include a high-level summary of what the funding will be used for. Skip this question if you only want in-kind resources (addressed in the next question). 
 
-- 200,000 $PEOPLE.  Cold start budget for marketing and product development expenses.
+- 200,000 $PEOPLE.  Cold start budget for marketing and product development expenses.  
+- 100% of the cold start budget is towards external expenses, none is intended as a personal allocation for Y4000.
+- Breakdown:
+
+| Allocation | Description |
+| --- | --- |
+| 50% | Marketing | 
+| 25% | Design | 
+| 25% | Development |
+
+- Allocation to design and development is lower because most of the design and development is done by Y4000.  
 
 ## 12) What in-kind resources do you need? For example, staffing, product development, strategic development, marketing, or dev work. 
 
