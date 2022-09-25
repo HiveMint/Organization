@@ -10,12 +10,12 @@
 
 ## 3) Please give a brief summary of your proposal.
 
-- A turnkey solution for creating an NFT Mint Drop dApp website.  Creating an NFT collection has so many moving parts, instead of starting from scratch for each project — this solution looks to roll up a lot of the common elements and best practices so that planning and rolling out a large NFT collection is streamlined and straightforward.  In turn allowing project creators to focus on the art and marketing strategy for their project.
-- With the tooling we aim to provide, we plan to make it easy for projects to fund-raise for non-profits and DAOs.  The goal is to host a directory of non-profit organizations and DAOs open to collaboration with NFT projects.  Each one of these orgs will have an associated vetted wallet.  NFT projects can link up with any organization and agree to allocate some percentage of their mint fundraising towards the organization.  In turn the organizations can help highlight the NFT projects.  The HiveMint deployable smart contract will bake the fundraising split directly into the final NFT contract.
+- A turnkey solution for creating an NFT Mint Drop dApp website.  Creating an NFT collection has so many moving parts. Instead of starting from scratch for each project, this solution bundles the common elements and best practices so that planning and rolling out a large NFT collection is streamlined and straightforward. HiveMint enables project creators to focus on the art and marketing strategy for their project.
+- Our tool makes it easy for projects to fundraise for non-profits and DAOs.  The goal is to host a directory of non-profit organizations and DAOs open to collaboration with NFT projects.  Each one of these orgs will have an associated vetted wallet.  NFT projects can link up with any organization and agree to allocate some percentage of their mint fundraising towards the organization.  In turn the organizations can help highlight the NFT projects.  The HiveMint deployable smart contract will bake the fundraising split directly into the final NFT contract.
 
-## 4) Identify the relevant need in web3, problem web3 is positioned to solve, or market gap.
+## 4) Identify the relevant need in web3, problem web3 you're positioned to solve, or market gap.
 
-- The use case for fundraising via NFTs has been well established.  Utility and collect-ability are aspects collectors seek.  Creators looking to launch an NFT project and provide utility need easier tooling so they can have a successful project.  Collectors looking to collect will benefit from a streamlined standardize platform which audits smart contracts, so they have a higher comfort level to mint from new projects.  
+- NFTs are an established form of fundraising and written about in Kevin Owocki's [Greenpilled]([url](https://greenpill.party/#book)).  Collectors buy NFTs seeking utility and collectability.  Creators looking to launch an NFT project and provide utility need easier tooling so they can launch projects cheaply and quickly.  Collectors will appreciate using a streamlined and standardized platform and find comfort in knowing HiveMint's contracts are audited. 
 
 ## 5) Provide a description of your project and how it solves the above need/problem/gap.
 
@@ -30,8 +30,8 @@
 
 ## 7) How will the project build around the $PEOPLE token or contribute to the PeopleDAO ecosystem?
 
-- HiveMint is running the beta in collaboration with the PeopleDAO.  HiveMint is the pre-mint allowlist building platform as well as the minting dApp for the NFT projects coming out of the PeopleDAO, including: *Journey Owaa*, *For The People*, and *The Afro Piece*.  
-- PeopleDAO related NFT projects will benefit from the early access of the HiveMint platform and have direct influence on the future of the HiveMint product development.  
+- HiveMint is running the beta in collaboration with the PeopleDAO.  HiveMint is the pre-mint allowlist building platform as well as the minting dApp for NFT projects coming out of PeopleDAO including: *Journey Owaa*, *For The People*, and *Afro Piece*.  
+- PeopleDAO-related NFT projects will benefit from the early access of the HiveMint platform and have direct influence on the future of the HiveMint product development.  
 - Going forward PeopleDAO will be grandfathered into using future offerings of the HiveMint platform at a free or discounted rate when compared to what HiveMint may advertise to outside consumers.
 
 ## 8) What kind of Return on Investment will this project bring the DAO?
@@ -41,9 +41,9 @@
 
 ## 9) What are indicators of how we will measure the project’s success?
 
-- Judging by how smoothly the first 3 NFT projects go: *Journey Owaa*, *For The People*, and *The Afro Piece*.
-- How the product learns and evolves from one NFT launch to the next.
-- How the "go to market" is received by outside projects and the rate in which new projects use the platform.
+- We will interview the founders of *Journey Owaa*, *For The People*, and *The Afro Piece* and evaluate satisfaction with the HiveMint product.
+- How the product learns and evolves with each of these NFT launches. We will get feedback on HiveMint interations during Fireside Chat meetings.
+- How the "go to market" is received and the number of outside projects using HiveMint within the first year.
 
 ## 10) Please give a brief roadmap.
 
