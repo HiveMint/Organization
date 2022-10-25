@@ -11,7 +11,7 @@
 ## 3) Please give a brief summary of your proposal.
 
 - A turnkey solution for creating an NFT Mint Drop dApp website.  Creating an NFT collection has so many moving parts. Instead of starting from scratch for each project, this solution bundles the common elements and best practices so that planning and rolling out a large NFT collection is streamlined and straightforward. HiveMint enables project creators to focus on the art and marketing strategy for their project.
-- Our tool makes it easy for projects to fundraise for non-profits and DAOs.  The goal is to host a directory of non-profit organizations and DAOs open to collaboration with NFT projects.  Each one of these orgs will have an associated vetted wallet.  NFT projects can link up with any organization and agree to allocate some percentage of their mint fundraising towards the organization.  In turn the organizations can help highlight the NFT projects.  The HiveMint deployable smart contract will bake the fundraising split directly into the final NFT contract.
+- Our tool makes it easy for projects to raise funds for non-profits and DAOs.  The goal is to host a directory of non-profit organizations and DAOs open to collaboration with NFT projects.  Each one of these orgs will have an associated vetted wallet.  NFT projects can link up with any organization and agree to allocate some percentage of their mint fundraising towards the organization.  In turn the organizations can help highlight the NFT projects.  The HiveMint deployable smart contract will bake the fundraising split directly into the final NFT contract.
 
 ## 4) Identify the relevant need in web3, problem web3 you're positioned to solve, or market gap.
 
@@ -37,7 +37,8 @@
 ## 8) What kind of Return on Investment will this project bring the DAO?
 
 - PeopleDAO will benefit from having access to the HiveMint platform to streamline their future NFT drops.
-- HiveMint plans to offer an "Insights NFT Pass" to raise the initial significant seed round of financing.  Some percentage of this raise will be allocated for the PeopleDAO Treasury as well as some number of passes.
+- HiveMint plans to offer an "Insights NFT Pass" to raise the initial significant seed round of financing.  5% of this raise will be allocated for the PeopleDAO Treasury as well as some number of passes.
+- 5% of the first 12 months (from start of incubation) of operating profits will be allocated to purchase $PEOPLE token and utilize the original JuiceBox contract to burn the purchased $PEOPLE token for an ETH refund at the original conversion.
 
 ## 9) What are indicators of how we will measure the project’s success?
 
