@@ -49,10 +49,10 @@
 ## 10) Please give a brief roadmap.
 
 - Phase 1: (9/22) Reusable premint allowlist building and NFT Minting dApp site for projects
-- Phase 1a: (9/22) Google Form to start gathering DAOs and Non-Profits who would like to be a part of our marketplace.
-- Phase 2: (11/22) Self-service management tools for projects to sign on and launch their premint and minting sites
-- Phase 3: (01/23) Flesh out email marketing for project community communication, once a project has minted-out, the system can target ACTUAL NFT holders with messaging.  For new wallets who've acquired the NFTs, they can register for communication.  For wallets who've sold their NFTs, they'll fall out of the loop of the communication.
-- Phase 4: (02/23) Build out the marketplace of DAOs and Non-Profits open to collaboration with new NFT projects.
+- Phase 1a: (11/22) Google Form to start gathering DAOs and Non-Profits who would like to be a part of our marketplace.
+- Phase 2: (12/22) Self-service management tools for projects to sign on and launch their premint and minting sites
+- Phase 3: (02/23) Flesh out email marketing for project community communication, once a project has minted-out, the system can target ACTUAL NFT holders with messaging.  For new wallets who've acquired the NFTs, they can register for communication.  For wallets who've sold their NFTs, they'll fall out of the loop of the communication.
+- Phase 4: (03/23) Build out the marketplace of DAOs and Non-Profits open to collaboration with new NFT projects.
 
 ## 11) What’s the amount of seed funding you’re requesting? Include a high-level summary of what the funding will be used for. Skip this question if you only want in-kind resources (addressed in the next question). 
 
